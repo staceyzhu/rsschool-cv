@@ -25,7 +25,7 @@ Hi, I'm Stacey, and I'm a Junior Front-End developer. I've learned basics of HTM
 - HTML Academy courses
 - RS.School courses
 
-# Languages
+## Languages
 - Russian (Native)
 - Ukrainian (Native)
 - English (Upper Intermediate)
